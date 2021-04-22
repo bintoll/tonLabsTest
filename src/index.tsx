@@ -5,8 +5,6 @@ import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context'
 
 import { MainNavigation } from '@navigation/main'
 
-import { ChooseImagesScreen } from '@screens/choose-images'
-
 interface Props {}
 interface State {}
 
